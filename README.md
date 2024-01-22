@@ -8,9 +8,8 @@ Welcome to my GitHub profile!
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://reactjs.org/)
 
-## 📫 Get in touch
 
-- Twitter: [@twitterhandle](https://twitter.com/MansiTo99989595)
+## 📫 Get in touch
 - LinkedIn [Mansi Tomar](https://www.linkedin.com/in/mansi-tomar/)
 - Portfolio: [Mansi's portfolio](https://mansi-boop.github.io/personal-Portfolio/)
 
